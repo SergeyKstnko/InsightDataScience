@@ -8,7 +8,7 @@ Scaling batch and real-time processing
 Dependencies:
 Python 2.7.10 an up
 	libraries:
-		1) numpy
+		1) bisect
 		2) collections
 
 My operational system:
