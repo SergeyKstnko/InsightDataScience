@@ -9,5 +9,5 @@ Python 2.7.10 an up
 		1) bisect
 		2) collections
 
-My operational system:
+My operating system:
 	MacOS Yosemite
